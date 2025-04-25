@@ -1,0 +1,7 @@
+.about-me {
+	background-color: var(--slidev-theme-color) !important;
+}
+
+.slidev-layout.section h1 code {
+	color: currentColor;
+}
